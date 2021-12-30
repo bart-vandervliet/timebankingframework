@@ -12,19 +12,32 @@ TODO
 
 # Scenario's
 
-In alle scenario's wordt uitgegaan van een basiswaardering van 1T$ = 1 uur arbeid.
+* In alle scenario's wordt uitgegaan van een basiswaardering van 1T$ = 1 uur arbeid.
+* Transacties worden na afronden van een werkdag gemaakt, dus geen maandelijkse vereffening van arbeid en T$ zoals in het fiat systeem gebruikelijk is.
 
+```
+TODO
+
+[ ] Geldt het dagelijks vereffenen van arbeid en T$ altijd?
+```
+
+## Tijdbank
 ## Werken in samenwerkingsverband
 
 Uitgaande dat iedereen in de community zichzelf vrijwillig inzet ten gunste van de community is het niet ondenkbaar dat er, net als in het fiat systeem, samenwerkingsverbanden gaan ontstaan. In dit voorbeeld gebruik ik een basisschool als voorbeeld. In een samenwerkingsverband zal een bepaalde stabiliteit moeten zijn: in dit voorbeeld zou het natuurlijk niet goed zijn als de leerkracht morgen in ene besluit er geen zin meer in te hebben en direct stopt met de dienstverlening.
 
 ### Werknemer
-Anita is leerkracht op een basisschool. Elke dag werkt zij 8 uur aan de ontwikkeling van kinderen. Dit betekent voor haar dat zij van de basisschool 8T$ krijgt voor een volle dag werk.
+Anita is leerkracht op een basisschool. Maandag werkt zij 8 uur aan de ontwikkeling van kinderen. Dit betekent voor haar dat zij van de basisschool 8T$ krijgt voor een volle dag werk.
 
 ```
 TRANSACTIES
 
 BASISSCHOOL AAN ANITA     8T$
+
+SALDI
+
+BASISSCHOOL               8T$-
+ANITA                     8T$
 ```
 
 ```
@@ -37,22 +50,37 @@ TODO
 ```
 
 ### Verlof
-Aan het einde van de week wil Anita graag een lang weekend met haar partner Nico doorbrengen. Het wordt mooi weer, dus ze willen graag op de fiets mooie plekken in de regio bezoeken. Ze neemt twee dagen verlof op: vrijdag en maandag. Voor die dagen wordt er vervanging geregeld (Peter) door het bestuur van de school.
+Aan het einde van de week wil Anita graag een lang weekend met haar partner Nico doorbrengen. Het wordt mooi weer, dus ze willen graag op de fiets mooie plekken in de regio bezoeken. Ze vraagt twee dagen verlof aan: vrijdag en maandag. Voor die dagen wordt er vervanging geregeld (Peter) door het bestuur van de school. Merk op dat Anita geen pot vrije dagen heeft, zoals in het fiat systeem gebruikelijk is. Het samenwerkingsverband gaat ervan uit dat Anita volwassen genoeg is om verlof in goed overleg op te nemen. Ook is het zo dat er dus geen inkomsten voor Anita zijn wanneer ze níet werkt.
 
 ```
 TRANSACTIES
 
-BASISSCHOOL AAN PETER     16T$
-# Er is geen transactie AAN ANITA, ze verricht immers geen arbeid.
-```
+BASISSCHOOL AAN PETER     16T$ # vrijdag, maandag
+BASISSCHOOL AAN ANITA     24T$ # dinsdag, woensdag, donderdag
 
-```
-TODO
+SALDI
 
-[ ] Hoe waardeer je bijv. een hotelovernachting?
+BASISSCHOOL              48T$-
+ANITA                    32T$
+PETER                    16T$
 ```
 
 ### Verzuim
+Tijdens haar lange weekend met haar partner Nico wordt Anita zondags ziek. Ze belt de basisschool en spendeert de hele week onder de wol en kan pas de week erop op maandag weer aan het werk. Het bestuur van de basisschool regelt dat Peter zolang Anita ziek is voor haar kan invallen
+
+```
+TRANSACTIES
+
+BASISSCHOOL AAN PETER    32T$ # 4 dagen extra
+# Er is geen transactie AAN ANITA, ze verricht immers geen arbeid.
+
+SALDI
+
+BASISSCHOOL              80T$-
+ANITA                    32T$
+PETER                    48T$
+```
+
 ### Langdurig verzuim
 ### Arbeidsongeschiktheid
 ### Reservering oude dag
@@ -65,15 +93,25 @@ TODO
 ## Een huis kopen
 ## Een product kopen
 ## Een dienst afnemen
+
+```
+TODO
+
+[ ] Hoe waardeer je bijv. een hotelovernachting?
+```
+
+## Huren
 ## Verschil in waardering van uren
 ## Vakantie opnemen
 ## Uren overmaken aan iemand anders
-## Investeren in iemand
+## Investeren
+## Lenen
 ## Met pensioen gaan
 ## Verzekeringen
 ## Arbeid en materiaal
-## Schuld
 ## Timefluencers
+## Crisis en rampen
+## Schuld
 ## Hebzucht (teveel T$ toeeigenen)
 
 # Juridisch
@@ -91,7 +129,7 @@ TODO
 
 # Toekomst
 
-Uitgaande van het feit dat een community ontstaat temidden van een samenleving waar fiat geld de norm is. Leden van de community leven mogelijkerwijs niet direct naast elkaar, maar wel in de buurt. Het liefst in dezelfde stad, regio of agglomeratie. De hoop is dat door het ontstaan van meerdere time banking initiatieven in Nederland en de huidige gepolariseerde samenleving leden van de community dichter bij elkaar willen gaan wonen. Dat kan op twee manieren gebeuren: of vanaf nul beginnen, land kopen en daarop verder bouwen aan de community òf gebruik maken van wat er al is, waardoor een bepaalde stad of regio aantrekkelijk wordt om als community lid in te vestigen. Uiteraard moet dit alles vrijwillig ontstaan, maar het is goed om een blik in de toekomst te werpen en te bedenken wat de omstandigheden moeten zijn om dit effect te bereiken.
+Uitgaande van het feit dat een community ontstaat temidden van een samenleving waar fiat geld de norm is. Leden van de community leven mogelijkerwijs niet direct naast elkaar, maar wel in de buurt. Het liefst in dezelfde stad, regio of agglomeratie. De hoop is dat door het wantrouwen in het oplossingsvermogen van de politiek en een sterk inflatoir klimaat meerdere time banking initiatieven in Nederland ontstaan. Door de huidige sterk gepolariseerde samenleving is de hoop dat leden van de community dichter bij elkaar willen gaan wonen om zo meer met gelijkgestemden te zijn en dat daardoor een soepelere, meer efficiënte time banking community ontstaat. Dat kan op twee manieren gebeuren: of vanaf nul beginnen, land kopen en daarop verder bouwen aan de community òf gebruik maken van wat er al is, waardoor een bepaalde stad of regio aantrekkelijk wordt om als community lid in te vestigen. Uiteraard moet dit alles vrijwillig ontstaan, maar het is goed om een blik in de toekomst te werpen en te bedenken wat de omstandigheden moeten zijn om dit effect te bereiken.
 
 # Gerelateerde fundamentele onderdelen van een community
 
