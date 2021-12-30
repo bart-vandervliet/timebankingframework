@@ -288,7 +288,7 @@ TODO
 * Interface met fiat systeem (beurs, handelen op bijv EUR/T$ op een zwevende of vaste wisselkoers, bepaald door bijv. de gemiddelde EUR/per uur voor arbeid in Nederland)
 * Interface met andere op tijd gebaseerde communities 
 * Dispuut systeem
-* Sociaal krediet systeem (Maar wel één die dus ethisch helemaal in lijn is met de waarden van de community!)
+* Sociaal rating systeem (Maar wel één die dus ethisch helemaal in lijn is met de waarden van de community!)
   * Het systeem mag mensen niet uitsluiten, maar wel motiveren om deel te nemen aan het systeem
   * Het systeem mag rechten van mensen niet afnemen. Mensen zijn vrij. Altijd.
   * Het systeem mag mensen tot niets verplichten, dwang of drang uitoefenen.
