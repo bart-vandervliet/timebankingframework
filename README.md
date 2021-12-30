@@ -210,7 +210,7 @@ TODO
 
 Uitgaande van het feit dat een community ontstaat temidden van een samenleving waar fiat geld de norm is. Leden van de community leven mogelijkerwijs niet direct naast elkaar, maar wel in de buurt. Het liefst in dezelfde stad, regio of agglomeratie. De hoop is dat door het wantrouwen in het oplossingsvermogen van de politiek en een sterk inflatoir klimaat meerdere time banking initiatieven in Nederland ontstaan. Door de huidige sterk gepolariseerde samenleving is de hoop dat leden van de community dichter bij elkaar willen gaan wonen om zo meer met gelijkgestemden te zijn en dat daardoor een soepelere, meer efficiënte time banking community ontstaat. Dat kan op twee manieren gebeuren: of vanaf nul beginnen, land kopen en daarop verder bouwen aan de community òf gebruik maken van wat er al is, waardoor een bepaalde stad of regio aantrekkelijk wordt om als community lid in te vestigen. Uiteraard moet dit alles vrijwillig ontstaan, maar het is goed om een blik in de toekomst te werpen en te bedenken wat de omstandigheden moeten zijn om dit effect te bereiken.
 
-# Gerelateerde fundamentele onderdelen van een community
+# Fundamentele onderdelen van een community
 
 Niet direct gerelateerd aan Time Banking, wel aan het opzetten van een community.
 
