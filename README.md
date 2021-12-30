@@ -243,6 +243,9 @@ TODO
   * Geen smaad of laster
   * Niet uitsluiten
   * Een mens is vrij. Altijd.
+  * Niet dwingen
+  * Niet dringen
+  * Niet misleiden
   * ...
   * Kunnen regels eigenlijk ook positief geformuleerd zijn?
 ```
