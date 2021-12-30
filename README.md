@@ -150,6 +150,13 @@ Niet direct gerelateerd aan Time Banking, wel aan het opzetten van een community
 * Open Source Government: Een van Github geïnspirereerde omgeving, waar d.m.v. Git regels/wetten worden bijgehouden. Veranderen regels of wetten? Dan wordt dit middels een Pull Request met main gemerged. Op een PR kan gestemd worden door *alle* leden van de community. Community vertegenwoordiging zorgt voor toetsing aan de grondregels en is de enige die toestemming heeft tot het doorzetten van de PR naar main.
 * Religie: Uiteraard is ieder lid van de community vrij om een geloof of levensbeschouwing naar keuze te beleiden, maar er is ook ruimte voor een nieuwe stroming: een op Boeddhisme geïnspireerde stroming, vertaald naar de moderne tijd.
 * Relaties: Wordt er in de community getrouwd? Trouwen is in feite een contract dat je met elkaar aangaat. Liefst wil je graag dat het contract niet nodig is.
+```
+TODO
+
+[ ] Wat als de relatie beëindigd is, en er zijn kinderen in het spel? 
+[ ] Verdeling van saldo T$ bij relatie beëindiging?
+[ ] Zorg van kinderen en impact op verdiencapaciteit?
+```
 * Internet: Een eigen, geïsoleerd internet?
 * Politie
 * Huisarts
@@ -172,8 +179,5 @@ Niet direct gerelateerd aan Time Banking, wel aan het opzetten van een community
 ```
 TODO
 
-[ ] Wat als de relatie beëindigd is, en er zijn kinderen in het spel? 
-[ ] Verdeling van saldo T$ bij relatie beëindiging?
-[ ] Zorg van kinderen en verdiencapaciteit?
 [ ] Juridische kaders omtrent de fundamentele onderdelen van een community
 ```
