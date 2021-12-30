@@ -185,6 +185,7 @@ TODO
 ## Passieve en actieve persoonlijkheden
 ## Aanbod/vraag
 ||Laag aanbod|Hoog aanbod|
+|-|-|-|
 |Lage vraag|||
 |Hoge vraag|||
 
