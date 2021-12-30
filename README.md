@@ -22,7 +22,7 @@ TODO
 ```
 
 ## Tijdbank
-## Werken in samenwerkingsverband
+## Werken in coöperatieverband
 
 Uitgaande dat iedereen in de community zichzelf vrijwillig inzet ten gunste van de community is het niet ondenkbaar dat er, net als in het fiat systeem, samenwerkingsverbanden gaan ontstaan. In dit voorbeeld gebruik ik een basisschool als voorbeeld. In een samenwerkingsverband zal een bepaalde stabiliteit moeten zijn: in dit voorbeeld zou het natuurlijk niet goed zijn als de leerkracht morgen in ene besluit er geen zin meer in te hebben en direct stopt met de dienstverlening.
 
@@ -161,6 +161,7 @@ TODO
 
 ## Met pensioen gaan
 ## Verzekeringen
+## Abonnementen
 ## Arbeid en materiaal
 ## Timefluencers
 ## Crisis en rampen
