@@ -1,10 +1,8 @@
 # Time Banking Framework
----
 
 Op het eerste gezicht zijn er wereldwijd veel initiatieven tot time banking. Deze repo zet aan tot het opzetten van een framework, waardoor initiatieven snel en professioneel kunnen worden opgezet. Het framework moet passen in de moderne wereld en houdt rekening met het feit dat een time banking initiatief onderdeel is van een groter geheel, waar fiat geld de norm is. Ook is het beoogde doel van het time banking framework een protocol te beschrijven dat zorgt van koppeling van verschillende time banking initiatieven. Scenario's worden beschreven middels personas, welke een specifiek doel in het systeem hebben. De scenario's komen misschien bekend voor, ze zijn geïnspireerd door gedrag in het huidige fiat systeem. De gedachte erachter is dat hoe het systeem is geconfigureerd in zichzelf niet slecht is, maar de financiële hiërarchie die centraal is ingericht en in feite als piramide is geschakeerd, waardoor macht ook gecentraliseerd is wel. Ook is de waardering van mensen sociaal gezien in het fiat systeem gebaseerd op de waardering van de persoon in geld. Je kunt je afvragen waarom een schoonmaakster veel minder verdient dan bijvoorbeeld een chirurg. Een hoe het komt dat een schoonmaakster toevalligerwijs lager in de sociale ladder staat dan diezelfde chirurg. Het beoogde doel van het Time Banking Framework is een een decentrale inrichting van het systeem.
 
 # Scenario's
----
 
 In alle scenario's wordt uitgegaan van een basiswaardering van 1T$ = 1 uur arbeid.
 
@@ -33,11 +31,10 @@ TODO
 ## 
 
 # Toekomst
----
+
 Uitgaande van het feit dat een community ontstaat temidden van een samenleving waar fiat geld de norm is. Leden van de community leven mogelijkerwijs niet direct naast elkaar, maar wel in de buurt. Het liefst in dezelfde stad, regio of agglomeratie. De hoop is dat door het ontstaan van meerdere time banking initiatieven in Nederland en de huidige gepolariseerde samenleving leden van de community dichter bij elkaar willen gaan wonen. Dat kan op twee manieren gebeuren: of vanaf nul beginnen, land kopen en daarop verder bouwen aan de community òf gebruik maken van wat er al is, waardoor een bepaalde stad of regio aantrekkelijk wordt om als community lid in te vestigen. Uiteraard moet dit alles vrijwillig ontstaan, maar het is goed om een blik in de toekomst te werpen en te bedenken wat de omstandigheden moeten zijn om dit effect te bereiken.
 
 # Gerelateerde ideeën
----
 
 Niet direct gerelateerd aan Time Banking, wel aan het opzetten van een community.
 
