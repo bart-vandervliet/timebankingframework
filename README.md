@@ -163,7 +163,16 @@ TODO
 ## Verzekeringen
 ## Abonnementen
 ## Arbeid en materiaal
-## Timefluencers
+## Online entertainment en howto's
+
+YouTube of blogs zijn fantastische bronnen van vermaak en bieden oplossingen voor problemen. Deze content is gratis toegankelijk, maar er wordt op de achtergrond verdiend aan de content door middel van advertenties of de blog/vlog is een advertentie voor de dienst of het product dat de blogger/vlogger zelf aanbied.
+
+```
+TODO
+
+[ ] Hoe kan dit model worden toegepast in een op tijd gebaseerde economie?
+```
+
 ## Crisis en rampen
 ## Schuld
 ## Hebzucht (teveel T$ toeeigenen)
@@ -191,6 +200,12 @@ TODO
 # Benodigdheden
 
 * Tijdbank + Mijn tijdbank omgeving (web, apps, desktop)
+* Een manier om transacties automatisch te vereffenen (wanneer je bijv. als leerkracht 8 uur per dag werkt en eind van de dag je 8 uur betaald wilt krijgen)
+* Een manier om een transactie te maken
+  * Online, bijvoorbeeld bij een aankoop in een webshop
+  * "Offline", bijvoorbeeld bij een aankoop in een fysieke winkel
+  * Contant
+* Een manier om een abonnement aan te gaan en te beëindigen
 * 100% veilige manier om transacties te vereffenen
 * Marktplaats / sociaal medium
 * Interface met fiat systeem (beurs, handelen op bijv EUR/T$ op een zwevende of vaste wisselkoers, bepaald door bijv. de gemiddelde EUR/per uur voor arbeid in Nederland)
