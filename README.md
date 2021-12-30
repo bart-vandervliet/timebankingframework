@@ -186,6 +186,59 @@ TODO
 ## Curatele / handelingsonbekwaamheid
 ## Corruptie
 ## Dispuut en onenigheid
+## Waardering
+
+Er zijn in feite vier peilers waardoor een hogere waardering voor mensen in het fiat systeem normaal zijn:
+
+* Lange studie
+* Verantwoordelijkheid
+* Risico
+* Prestige
+
+### Lange studie
+
+Voordat iemand zichzelf chirurg mag noemen heeft iemand twaalf jaar een opleiding gevolgd: zes jaar Geneeskunde gestudeerd, twee jaar algemene chirurgie en vier jaar specialisatie. En dat na een Gymnasium opleiding van eveneens zes jaar. Na de opleiding wordt verwacht dat de hele carrière bijgeschoold of nageschoold wordt. Dit staat natuurlijk in schril contrast met bijvoorbeeld een vuilnisman. De tijd in een dag is dezelfde 24 uur: of je nu chirurg bent of vuilnisman.
+
+```
+TODO
+
+[ ] Hoe gaat een op tijd gebaseerde economie om met deze disbalans?
+```
+
+### Verantwoordelijkheid
+
+Een piloot heeft gedurende zijn vlucht de verantwoordelijkheid over ruim honderd passagiers. Als hij en de co-piloot een fout maken, dan kan dat de dood van deze passagiers betekenen. Dragen in dit opzicht de mechanici van het vliegtuig niet dezelfde verantwoordelijkheid? Waarom worden zij niet even ruim betaald als de piloot?
+
+Om in dit voorbeeld de vuilnisman weer even te betrekken: hij heeft niet de verantwoordelijkheid van ruim honderd passagiers, maar wel de verantwoordelijkheid van een schone stad. Misschien is een schoonmaker een beter voorbeeld: deze draagt de verantwoordelijkheid van een schone werkplek en het niet stelen van de onbeheerde goederen.
+
+Even buiten het feit dat als een piloot met T$ kan worden betaald, de op tijd gebaseerde economie behoorlijk geslaagd is, is dit slechts een voorbeeld ter illustratie van de disbalans in verantwoordelijkheid van beroepen.
+
+```
+TODO
+
+[ ] Hoe gaat een op tijd gebaseerde economie om met deze disbalans?
+```
+
+### Risico
+
+Een ondernemer neemt het risico dat zijn onderneming faalt. Hij of zij neemt een risico als hij een opdracht binnenhaalt of personeel aanneemt. Hiervoor is het in het fiat systeem normaal dat hij of zij veel mag verdienen doordat hij risico neemt. Een duiker wiens leven in de waagschaal ligt bij het vervullen van een opdracht, verdient die niet dezelfde waardering?
+
+```
+TODO
+
+[ ] Hoe gaat een op tijd gebaseerde economie om met deze disbalans?
+```
+
+### Prestige
+
+Een advocaat verdient in het fiat systeem veel meer geld dan een vuilnisman, terwijl hij niets van waarde bijdraagt aan het systeem. Toegegeven, hij of zij zorgt ervoor dat de belangen van zijn client goed gerepresenteerd worden in de rechtbank, maar is dit het verschil in waardering waard?
+
+```
+TODO
+
+[ ] Hoe gaat een op tijd gebaseerde economie om met deze disbalans?
+```
+
 ## Investeringen die normaal gesproken door overheden worden gedaan
 
 * Bijvoorbeeld de aanleg en onderhoud van infrastructuur in de community.
