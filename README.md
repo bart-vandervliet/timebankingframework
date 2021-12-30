@@ -184,10 +184,19 @@ TODO
 ## Dispuut en onenigheid
 ## Passieve en actieve persoonlijkheden
 ## Aanbod/vraag
+Zowel producten als diensten kennen vraag en aanbod. Zie hieronder de matrix. Ook vinden er transities plaats tussen de verschillende kwadranten.
+
 ||Laag aanbod|Hoog aanbod|
 |-|-|-|
 |Lage vraag|||
 |Hoge vraag|||
+
+```
+TODO
+
+[ ] Beschrijven van de kwadranten
+[ ] Beschrijven transities tussen kwadranten en het effect daarvan op de op tijd gebaseerde economie
+```
 
 # Juridisch
 
