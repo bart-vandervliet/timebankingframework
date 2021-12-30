@@ -172,6 +172,7 @@ TODO
 ## Bezit
 ## Curatele / handelingsonbekwaamheid
 ## Corruptie
+## Dispuut en onenigheid
 ## Passieve en actieve persoonlijkheden
 
 # Juridisch
@@ -185,6 +186,24 @@ TODO
 [ ] Regels omtrent betaling in natura
 [ ] Regels omtrent de interface met het fiat systeem (Belastingen, rechtsvorm, etc.)
 [ ] ...
+```
+
+# Benodigdheden
+
+* Tijdbank + Mijn tijdbank omgeving (web, apps, desktop)
+* 100% veilige manier om transacties te vereffenen
+* Marktplaats / sociaal medium
+* Interface met fiat systeem
+* Dispuut systeem
+* Sociaal krediet systeem (Maar wel één die dus ethisch helemaal in lijn is met de waarden van de community!)
+  * Het systeem mag mensen niet uitsluiten, maar wel motiveren om deel te nemen aan het systeem
+  * Het systeem mag rechten van mensen niet afnemen. Mensen zijn vrij. Altijd.
+  * Het systeem mag mensen tot niets verplichten, dwang of drang uitoefenen.
+
+```
+TODO
+
+[ ] Zeer helder uiteenzetten waar vrijwilligheid stopt en drang begint.
 ```
 
 # Toekomst
@@ -222,6 +241,8 @@ TODO
   * Jezelf niet uitgeven voor een ander
   * Discrimineer niet
   * Geen smaad of laster
+  * Niet uitsluiten
+  * Een mens is vrij. Altijd.
   * ...
   * Kunnen regels eigenlijk ook positief geformuleerd zijn?
 ```
