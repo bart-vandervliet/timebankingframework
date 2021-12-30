@@ -26,7 +26,7 @@ TODO
 
 Uitgaande dat iedereen in de community zichzelf vrijwillig inzet ten gunste van de community is het niet ondenkbaar dat er, net als in het fiat systeem, samenwerkingsverbanden gaan ontstaan. In dit voorbeeld gebruik ik een basisschool als voorbeeld. In een samenwerkingsverband zal een bepaalde stabiliteit moeten zijn: in dit voorbeeld zou het natuurlijk niet goed zijn als de leerkracht morgen in ene besluit er geen zin meer in te hebben en direct stopt met de dienstverlening.
 
-* Er wordt in een community altijd gewerkt vanuit het coöperatiemodel als meerdere mensen samen de belangen van een groep mensen binnen de community wil behartigen. Ieder lid van de coöperatie heeft inzicht in de balans van de coöperatie en heeft evenveel invloed op de toekomst van de coöperatie. Sterker nog: iedere deelnemer die gebruik maakt van de coöperatie heeft evenveel stemrecht als de leden van de coöperatie. De coöperatie behartigt de belangen van de leden ervan en de belangen voor wie de coöperatie in het leven is geroepen.
+* Er wordt in een community altijd gewerkt vanuit het coöperatiemodel als meerdere mensen samen de belangen van een groep mensen binnen de community wil behartigen. Ieder lid van de coöperatie heeft inzicht in de balans van de coöperatie en heeft evenveel invloed op de toekomst van de coöperatie. Sterker nog: iedere deelnemer die gebruik maakt van de coöperatie heeft evenveel stemrecht als de leden van de coöperatie. De coöperatie behartigt de belangen van de leden en de belangen voor wie de coöperatie in het leven is geroepen.
 
 ### Werknemer
 Anita is leerkracht op een basisschool. Maandag werkt zij 8 uur aan de ontwikkeling van kinderen. Dit betekent voor haar dat zij van de basisschool 8T$ krijgt voor een volle dag werk.
