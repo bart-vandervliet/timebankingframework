@@ -28,6 +28,12 @@ Uitgaande dat iedereen in de community zichzelf vrijwillig inzet ten gunste van 
 
 * Er wordt in een community altijd gewerkt vanuit het coöperatiemodel als meerdere mensen samen de belangen van een groep mensen binnen de community wil behartigen. Ieder lid van de coöperatie heeft inzicht in de balans van de coöperatie en heeft evenveel invloed op de toekomst van de coöperatie. Sterker nog: iedere deelnemer die gebruik maakt van de coöperatie heeft evenveel stemrecht als de leden van de coöperatie. De coöperatie behartigt de belangen van de leden en de belangen voor wie de coöperatie in het leven is geroepen.
 
+```
+TODO
+
+[ ] Wat als er een samenwerking ontstaat tussen twee of meer op tijd gebaseerde communities, hoe regel je dat qua vereffening van T$?
+```
+
 ### Werknemer
 Anita is leerkracht op een basisschool. Maandag werkt zij 8 uur aan de ontwikkeling van kinderen. Dit betekent voor haar dat zij van de basisschool 8T$ krijgt voor een volle dag werk.
 
@@ -135,8 +141,6 @@ TODO
 ```
 
 ## Huren
-## Verschil in waardering van uren
-## Vakantie opnemen
 ## Uren overmaken aan iemand anders
 ## Investeren
 
@@ -182,8 +186,14 @@ TODO
 ## Curatele / handelingsonbekwaamheid
 ## Corruptie
 ## Dispuut en onenigheid
+## Investeringen die normaal gesproken door overheden worden gedaan
+
+* Bijvoorbeeld de aanleg en onderhoud van infrastructuur in de community.
+* Stel dat er tussen twee communities een samenwerking ontstaat, er moeten veel dingen geregeld en besproken worden, wie vergoed die tijd?
+
 ## Passieve en actieve persoonlijkheden
 ## Aanbod/vraag
+
 Zowel producten als diensten kennen vraag en aanbod. Zie hieronder de matrix. Ook vinden er transities plaats tussen de verschillende kwadranten.
 
 ||Laag aanbod|Hoog aanbod|
@@ -223,6 +233,7 @@ TODO
 * 100% veilige manier om transacties te vereffenen
 * Marktplaats / sociaal medium
 * Interface met fiat systeem (beurs, handelen op bijv EUR/T$ op een zwevende of vaste wisselkoers, bepaald door bijv. de gemiddelde EUR/per uur voor arbeid in Nederland)
+* Interface met andere op tijd gebaseerde communities 
 * Dispuut systeem
 * Sociaal krediet systeem (Maar wel één die dus ethisch helemaal in lijn is met de waarden van de community!)
   * Het systeem mag mensen niet uitsluiten, maar wel motiveren om deel te nemen aan het systeem
@@ -262,6 +273,12 @@ TODO
 * Ambulance
 * Brandweer
 * Journalistiek
+* Lagere school
+* Middelbare school
+* Hoger onderwijs / universiteit
+* Kinderopvang
+* Ouderenzorg (zoveel mogelijk ambulant)
+* Ouderen een belangrijke plaats, zo niet de belangrijkste plaats in de community geven (wijzen)
 * Post- en pakketdienst
 * ...
 * Grondregels
