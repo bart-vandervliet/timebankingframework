@@ -160,6 +160,15 @@ Niet direct gerelateerd aan Time Banking, wel aan het opzetten van een community
 * Journalistiek
 * Post- en pakketdienst
 * ...
+* Grondregels
+  * Niet stelen
+  * Geen pijn doen (fysiek of mentaal)
+  * Geen schade maken
+  * Jezelf niet uitgeven voor een ander
+  * Discrimineer niet
+  * Geen smaad of laster
+  * ...
+  * Kunnen regels eigenlijk ook positief geformuleerd zijn?
 ```
 TODO
 
