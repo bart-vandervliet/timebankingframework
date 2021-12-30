@@ -183,6 +183,10 @@ TODO
 ## Corruptie
 ## Dispuut en onenigheid
 ## Passieve en actieve persoonlijkheden
+## Aanbod/vraag
+||Laag aanbod|Hoog aanbod|
+|Lage vraag|||
+|Hoge vraag|||
 
 # Juridisch
 
