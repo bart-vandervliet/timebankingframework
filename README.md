@@ -6,15 +6,34 @@ Op het eerste gezicht zijn er wereldwijd veel initiatieven tot time banking. Dez
 
 In alle scenario's wordt uitgegaan van een basiswaardering van 1T$ = 1 uur arbeid.
 
-## Werken voor een werkgever
+## Werken in samenwerkingsverband
+
+Uitgaande dat iedereen in de community zichzelf vrijwillig inzet ten gunste van de community is het niet ondenkbaar dat er, net als in het fiat systeem, samenwerkingsverbanden gaan ontstaan. In dit voorbeeld gebruik ik een basisschool als voorbeeld.
+
+### Werknemer
 Anita is leerkracht op een basisschool. Elke dag werkt zij 8 uur aan de ontwikkeling van kinderen. Dit betekent voor haar dat zij van de basisschool 8T$ krijgt voor een volle dag werk.
 
 ```
-TODO
-[ ] Bedenken hoe de basisschool geld krijgt van de ouders
-[ ] Bedenken of het huidige systeem, waar de basisschool geld krijgt van de Raad van de Community, toepasbaar of wenselijk is
+TRANSACTIE
+
+BASISSCHOOL AAN ANITA     8T$
 ```
 
+```
+TODO
+[ ] Bedenken hoe de basisschool T$ krijgt van de ouders
+[ ] Bedenken of het wenselijk is dat kinderen de school betalen met hun T$
+[ ] Bedenken of het huidige systeem, waar de basisschool T$ krijgt van de Raad van de Community, toepasbaar of wenselijk is
+[ ] Bedenken hoe het saldo T$ transparant is voor alle partijen: leerkrachten, bestuur, oudercommissie en ouders moeten allen inzicht hierin hebben
+```
+
+### Verlof
+### Verzuim
+### Langdurig verzuim
+### Arbeidsongeschiktheid
+### Reservering oude dag
+
+## School en educatie
 ## Personeel van een onderneming
 ## Iets bestellen buiten het systeem (fiat)
 ## Iets bestellen buiten het systeem (inter time bank transactie)
@@ -28,7 +47,6 @@ TODO
 ## Met pensioen gaan
 ## Verzekeringen
 ## Arbeid en materiaal
-## 
 
 # Toekomst
 
