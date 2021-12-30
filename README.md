@@ -53,12 +53,6 @@ TODO
 Aan het einde van de week wil Anita graag een lang weekend met haar partner Nico doorbrengen. Het wordt mooi weer, dus ze willen graag op de fiets mooie plekken in de regio bezoeken. Ze vraagt twee dagen verlof aan: vrijdag en maandag. Voor die dagen wordt er vervanging geregeld (Peter) door het bestuur van de school. Merk op dat Anita geen pot vrije dagen heeft, zoals in het fiat systeem gebruikelijk is. Het samenwerkingsverband gaat ervan uit dat Anita volwassen genoeg is om verlof in goed overleg op te nemen. Ook is het zo dat er dus geen inkomsten voor Anita zijn wanneer ze níet werkt.
 
 ```
-TODO
-
-[ ] Hoe worden kosten opgevangen die haar saldo overstijgen? Voor verlof zou ik zeggen dat dat de verantwoordelijkheid is van het community lid, maar voor verzuim zal dat anders liggen
-```
-
-```
 TRANSACTIES
 
 BASISSCHOOL AAN PETER     16T$ # vrijdag, maandag
@@ -69,6 +63,12 @@ SALDI
 BASISSCHOOL              48T$-
 ANITA                    32T$
 PETER                    16T$
+```
+
+```
+TODO
+
+[ ] Hoe worden kosten opgevangen die haar saldo overstijgen? Voor verlof zou ik zeggen dat dat de verantwoordelijkheid is van het community lid, maar voor verzuim zal dat anders liggen
 ```
 
 ### Verzuim
