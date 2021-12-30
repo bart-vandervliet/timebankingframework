@@ -292,6 +292,7 @@ TODO
   * Het systeem mag mensen niet uitsluiten, maar wel motiveren om deel te nemen aan het systeem
   * Het systeem mag rechten van mensen niet afnemen. Mensen zijn vrij. Altijd.
   * Het systeem mag mensen tot niets verplichten, dwang of drang uitoefenen.
+  * Het recht om te resetten
 
 ```
 TODO
