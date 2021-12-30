@@ -26,6 +26,8 @@ TODO
 
 Uitgaande dat iedereen in de community zichzelf vrijwillig inzet ten gunste van de community is het niet ondenkbaar dat er, net als in het fiat systeem, samenwerkingsverbanden gaan ontstaan. In dit voorbeeld gebruik ik een basisschool als voorbeeld. In een samenwerkingsverband zal een bepaalde stabiliteit moeten zijn: in dit voorbeeld zou het natuurlijk niet goed zijn als de leerkracht morgen in ene besluit er geen zin meer in te hebben en direct stopt met de dienstverlening.
 
+* Er wordt in een community altijd gewerkt vanuit het coöperatiemodel als meerdere mensen samen de belangen van een groep mensen binnen de community wil behartigen. Ieder lid van de coöperatie heeft inzicht in de balans van de coöperatie en heeft evenveel invloed op de toekomst van de coöperatie. Sterker nog: iedere deelnemer die gebruik maakt van de coöperatie heeft evenveel stemrecht als de leden van de coöperatie. De coöperatie behartigt de belangen van de leden ervan en de belangen voor wie de coöperatie in het leven is geroepen.
+
 ### Werknemer
 Anita is leerkracht op een basisschool. Maandag werkt zij 8 uur aan de ontwikkeling van kinderen. Dit betekent voor haar dat zij van de basisschool 8T$ krijgt voor een volle dag werk.
 
@@ -45,7 +47,8 @@ TODO
 [ ] Bedenken hoe de basisschool T$ krijgt van de ouders
 [ ] Bedenken of het wenselijk is dat kinderen de school betalen met hun T$
 [ ] Bedenken of het huidige systeem, waar de basisschool T$ krijgt van de Raad van de Community, toepasbaar of wenselijk is
-[ ] Bedenken hoe het saldo T$ transparant is voor alle partijen: leerkrachten, bestuur, oudercommissie en ouders moeten allen inzicht hierin hebben
+[ ] Bedenken hoe de balans transparant is voor alle partijen: leerkrachten, bestuur, oudercommissie en ouders moeten allen inzicht hierin hebben
+[ ] Traditionele gecentraliseerde machtsstructuren/vertegenwoordiging als een oudercommissie, ondernemingsraad, bestuur: zijn die nog nodig in volledig transparante en democratische besluitvorming?
 [ ] Bedenken hoe de stabiliteit van dienstverlening wordt gewaarborgd, het liefst zonder contracten te gebruiken
 ```
 
@@ -90,7 +93,28 @@ PETER                    48T$
 ### Langdurig verzuim
 Anita heeft een beetje pech, want maandagochtend na haar ziekte schiet het in haar rug. Ze gaat naar de dokter en laat haar onderzoeken: een hernia. Ze is zes weken uit de running.
 
-Na zes weken start ze een reïntegratietraject.
+Na zes weken start ze een reïntegratietraject en werkt elke week 25% meer van haar normale gewerkte uren, wat neerkomt op elke week 2 uur extra. De kinderen zijn hartstikke blij haar weer te zien. De opbouw voor Anita en de afbouw van Peter ziet er als volgt uit:
+
+|Week|Anita|Peter|
+|-|-|-|
+|1 t/m 6|0|8|
+|7|2|6|
+|8|4|4|
+|9|6|2|
+|10|8|0|
+
+```
+TRANSACTIES
+
+BASISSCHOOL AAN PETER   58T$
+BASISSCHOOL AAN ANITA   18T$
+
+SALDI
+
+BASISSCHOOL            156T$-
+ANITA                   50T$
+PETER                  106T$
+```
 
 ### Arbeidsongeschiktheid
 ### Reservering oude dag
@@ -115,7 +139,26 @@ TODO
 ## Vakantie opnemen
 ## Uren overmaken aan iemand anders
 ## Investeren
+
+Steven heeft een goed idee waarmee hij waarde toe kan voegen aan de community. Hij moet echter een plan maken en de handen uit de mouwen steken om de basis hiervan te realiseren, vóórdat er T$ verdiend kan worden. Vanwege zijn drukke gezinsleven, de verantwoordelijkheden in T$ die hij heeft en de T$ die hij daarvoor moet verdienen is het onmogelijk om hiervoor de tijd en energie te vinden. Hij heeft weinig T$ opgebouwd en zal dus een investeerder voor de periode dat hij geen T$ kan verdienen moeten vinden.
+
+Gelukkig is zijn vader trots en vol vertrouwen in het idee dat zijn zoon heeft en investeert de benodigde T$. Steven verwacht zes weken lang acht uur per dag aan het fundament te besteden, zonder dat er T$ tegenover staat. Daarna verwacht hij elke vier weken 2T$ meer te verdienen.
+
+* Uitgangspunt van investeren is dat elke investeerder evenveel invloed heeft op de toekomst van een coöperatie of community lid.
+* Elke investeerder heeft inzicht in de balans van de coöperatie of community lid.
+* Een investeerder wil graag zijn investering terug. Een investering wordt dus expliciet niet met winstoogmerkt gemaakt.
+* Een investeerder kan wel verdienen aan zijn investering door tijd te besteden in de besluitvorming.
+
+```
+TODO
+
+[ ] Als een investeerder inzicht heeft in de balans van een community lid, dan moet dit een "zakelijke" balans zijn, i.v.m. privacy.
+[ ] Zoals je ziet, gaat Steven na een periode van zes weken elke vier weken 2T$ meer verdienen met zijn innovatie. Dat betekent dat hij op een gegeven moment zoveel gaat verdienen dat het de belangen van de community schaadt. Nadenken over het concept winst!
+```
+
 ## Lenen
+
+
 ## Met pensioen gaan
 ## Verzekeringen
 ## Arbeid en materiaal
@@ -125,6 +168,10 @@ TODO
 ## Hebzucht (teveel T$ toeeigenen)
 ## Sociaal vangnet
 ## Privacy van transacties / Cash T$
+## Bezit
+## Curatele / handelingsonbekwaamheid
+## Corruptie
+## Passieve en actieve persoonlijkheden
 
 # Juridisch
 
