@@ -193,7 +193,7 @@ TODO
 * Tijdbank + Mijn tijdbank omgeving (web, apps, desktop)
 * 100% veilige manier om transacties te vereffenen
 * Marktplaats / sociaal medium
-* Interface met fiat systeem
+* Interface met fiat systeem (beurs, handelen op bijv EUR/T$ op een zwevende of vaste wisselkoers, bepaald door bijv. de gemiddelde EUR/per uur voor arbeid in Nederland)
 * Dispuut systeem
 * Sociaal krediet systeem (Maar wel één die dus ethisch helemaal in lijn is met de waarden van de community!)
   * Het systeem mag mensen niet uitsluiten, maar wel motiveren om deel te nemen aan het systeem
@@ -204,6 +204,7 @@ TODO
 TODO
 
 [ ] Zeer helder uiteenzetten waar vrijwilligheid stopt en drang begint.
+[ ] Een Tijdbank is een coöperatie
 ```
 
 # Toekomst
