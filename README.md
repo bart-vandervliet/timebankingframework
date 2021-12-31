@@ -295,6 +295,7 @@ TODO
   * "Offline", bijvoorbeeld bij een aankoop in een fysieke winkel
   * Contant
 * Een manier om een abonnement aan te gaan en te beëindigen
+* Een manier om een lening te verstrekken en terug te betalen of door te halen
 * 100% veilige manier om transacties te vereffenen
 * Marktplaats / sociaal medium
 * Interface met fiat systeem (beurs, handelen op bijv EUR/T$ op een zwevende of vaste wisselkoers, bepaald door bijv. de gemiddelde EUR/per uur voor arbeid in Nederland)
@@ -304,7 +305,9 @@ TODO
   * Het systeem mag mensen niet uitsluiten, maar wel motiveren om deel te nemen aan het systeem
   * Het systeem mag rechten van mensen niet afnemen. Mensen zijn vrij. Altijd.
   * Het systeem mag mensen tot niets verplichten, dwang of drang uitoefenen.
-  * Het recht om te resetten
+  * Het recht om ratings ter discussie te stellen (een slechte rating hoeft niet altijd de schuld te zijn van de beoordeelde)
+  * Het recht om ratings te verwijderen
+  * Inspireren op bijv. het Marktplaats, AliExpress of Fiverr ervaringen systeem. Maar dan + tekst, afbeeldingen en reacties
 
 ```
 TODO
