@@ -4,6 +4,12 @@ Er zijn wereldwijd veel initiatieven tot time banking. Deze repo zet aan tot het
 
 Fundamenteel onderdeel van het systeem is dat de waardering van een uur arbeid gelijk is voor iedereen in de community en dat arbeid niet, zoals in het fiat systeem, verschillend gewaardeerd wordt.
 
+```
+TODO
+
+[ ] Zijn er nadelen verbonden aan een gelijke waardering van iedereen in het systeem? Het neigt ergens naar communisme, wat uiteindelijk altijd ineenstort.
+```
+
 # Fases
 
 1. Opstellen van scenarios die alle facetten van de op tijd gebaseerde economie omvatten
@@ -15,12 +21,6 @@ Fundamenteel onderdeel van het systeem is dat de waardering van een uur arbeid g
 7. Gelijkgestemden vinden die mee willen helpen aan de ontwikkeling van de standaard infrastructuur
 8. Standaard infrastructuur ontwikkelen
 9. Communities oprichten o.b.v. het framework
-
-```
-TODO
-
-[ ] Zijn er nadelen verbonden aan een gelijke waardering van iedereen in het systeem? Het neigt ergens naar communisme, wat uiteindelijk altijd ineenstort.
-```
 
 # Scenarios
 
