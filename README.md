@@ -207,7 +207,7 @@ TODO
 
 ### Verantwoordelijkheid
 
-Een piloot heeft gedurende zijn vlucht de verantwoordelijkheid over ruim honderd passagiers. Als hij en de co-piloot een fout maken, dan kan dat de dood van deze passagiers betekenen. Dragen in dit opzicht de mechanici van het vliegtuig niet dezelfde verantwoordelijkheid? Waarom worden zij niet even ruim betaald als de piloot?
+Een piloot heeft gedurende zijn vlucht de verantwoordelijkheid over ruim honderd passagiers. Als hij en de co-piloot een fout maken (of wie dan ook in de waardeketen), dan kan dat de dood van deze passagiers betekenen. Dragen in dit opzicht de mechanici van het vliegtuig niet dezelfde verantwoordelijkheid? Waarom worden zij niet even ruim betaald als de piloot?
 
 Om in dit voorbeeld de vuilnisman weer even te betrekken: hij heeft niet de verantwoordelijkheid van ruim honderd passagiers, maar wel de verantwoordelijkheid van een schone stad. Misschien is een schoonmaker een beter voorbeeld: deze draagt de verantwoordelijkheid van een schone werkplek en het niet stelen van de onbeheerde goederen.
 
