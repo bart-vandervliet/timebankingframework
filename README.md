@@ -13,14 +13,15 @@ TODO
 # Fases
 
 1. Opstellen van scenarios die alle facetten van de op tijd gebaseerde economie omvatten
-2. Vertaling ervan naar het Engels
-3. Gelijkgestemden vinden die mee willen helpen aan de verfijning en praktische toetsing van het framework
-4. Publiceren van het framework
-5. Architectuur van de standaard infrastructuur ontwikkelen op basis van het framework (schematisch + tekstueel)
-6. Specificatie ontwikkelen voor intertijdbank transacties
-7. Gelijkgestemden vinden die mee willen helpen aan de ontwikkeling van de standaard infrastructuur
-8. Standaard infrastructuur ontwikkelen
-9. Communities oprichten o.b.v. het framework
+2. Juridische kaders achterhalen
+3. Vertaling ervan naar het Engels
+4. Gelijkgestemden vinden die mee willen helpen aan de verfijning en praktische toetsing van het framework
+5. Publiceren van het framework
+6. Architectuur van de standaard infrastructuur ontwikkelen op basis van het framework (schematisch + tekstueel)
+7. Specificatie ontwikkelen voor intertijdbank transacties
+8. Gelijkgestemden vinden die mee willen helpen aan de ontwikkeling van de standaard infrastructuur
+9. Standaard infrastructuur ontwikkelen
+10. Communities oprichten o.b.v. het framework
 
 # Scenarios
 
