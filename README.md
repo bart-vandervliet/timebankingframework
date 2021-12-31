@@ -4,13 +4,25 @@ Er zijn wereldwijd veel initiatieven tot time banking. Deze repo zet aan tot het
 
 Fundamenteel onderdeel van het systeem is dat de waardering van een uur arbeid gelijk is voor iedereen in de community en dat arbeid niet, zoals in het fiat systeem, verschillend gewaardeerd wordt.
 
+# Fases
+
+1. Opstellen van scenarios die alle facetten van de op tijd gebaseerde economie omvatten
+2. Vertaling ervan naar het Engels
+3. Gelijkgestemden vinden die mee willen helpen aan de verfijning en praktische toetsing van het framework
+4. Publiceren van het framework
+5. Architectuur van de standaard infrastructuur ontwikkelen op basis van het framework (schematisch + tekstueel)
+6. Specificatie ontwikkelen voor intertijdbank transacties
+7. Gelijkgestemden vinden die mee willen helpen aan de ontwikkeling van de standaard infrastructuur
+8. Standaard infrastructuur ontwikkelen
+9. Communities oprichten o.b.v. het framework
+
 ```
 TODO
 
 [ ] Zijn er nadelen verbonden aan een gelijke waardering van iedereen in het systeem? Het neigt ergens naar communisme, wat uiteindelijk altijd ineenstort.
 ```
 
-# Scenario's
+# Scenarios
 
 * In alle scenario's wordt uitgegaan van een basiswaardering van 1T$ = 1 uur arbeid.
 * Transacties worden na afronden van een werkdag gemaakt, dus geen maandelijkse vereffening van arbeid en T$ zoals in het fiat systeem gebruikelijk is.
@@ -286,7 +298,7 @@ TODO
 * 100% veilige manier om transacties te vereffenen
 * Marktplaats / sociaal medium
 * Interface met fiat systeem (beurs, handelen op bijv EUR/T$ op een zwevende of vaste wisselkoers, bepaald door bijv. de gemiddelde EUR/per uur voor arbeid in Nederland)
-* Interface met andere op tijd gebaseerde communities 
+* Interface met andere op tijd gebaseerde communities (Specificatie van een standaard + implementatie van die standaard)
 * Dispuut systeem
 * Sociaal rating systeem (Maar wel één die dus ethisch helemaal in lijn is met de waarden van de community!)
   * Het systeem mag mensen niet uitsluiten, maar wel motiveren om deel te nemen aan het systeem
@@ -319,6 +331,7 @@ TODO
 [ ] Verdeling van saldo T$ bij relatie beëindiging?
 [ ] Zorg van kinderen en impact op verdiencapaciteit?
 ```
+* Time Bank Association: één plek waar alle op tijd gebaseerde communities ter wereld zich kunnen verenigen
 * Internet: Een eigen, geïsoleerd internet?
 * Politie
 * Huisarts
