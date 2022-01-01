@@ -1,14 +1,21 @@
 # Time Banking Framework
 
-Er zijn wereldwijd veel initiatieven tot time banking. Deze repo zet aan tot het opzetten van een framework, waardoor initiatieven snel en professioneel kunnen worden opgezet. Het framework moet passen in de moderne wereld en houdt rekening met het feit dat een time banking initiatief onderdeel is van een groter geheel, waar fiat geld de norm is. Ook is het beoogde doel van het time banking framework een protocol te beschrijven dat zorgt van koppeling van verschillende time banking initiatieven. Scenario's worden beschreven middels personas, welke een specifiek doel in het systeem hebben. De scenario's komen misschien bekend voor, ze zijn geïnspireerd door gedrag in het huidige fiat systeem. De gedachte erachter is dat hoe het systeem is geconfigureerd in zichzelf niet slecht is, maar de financiële hiërarchie die centraal is ingericht en in feite als piramide is geschakeerd, waardoor macht ook gecentraliseerd is wel. Ook is de waardering van mensen sociaal gezien in het fiat systeem gebaseerd op de waardering van de persoon in geld. Je kunt je afvragen waarom een schoonmaakster veel minder verdient dan bijvoorbeeld een chirurg. Een hoe het komt dat een schoonmaakster toevalligerwijs lager in de sociale ladder staat dan diezelfde chirurg. Het beoogde doel van het Time Banking Framework is een een decentrale inrichting van het systeem.
+Er zijn wereldwijd veel initiatieven tot time banking. Deze repo zet aan tot het opzetten van een framework, waardoor initiatieven snel en professioneel kunnen worden opgezet. Het framework moet passen in de moderne wereld en houdt rekening met het feit dat een time banking initiatief onderdeel is van een groter geheel, waar fiat geld de norm is. Het werkt complementair aan de echte economie. Ook is het beoogde doel van het time banking framework een protocol te beschrijven dat zorgt van koppeling van verschillende time banking initiatieven. Scenario's worden beschreven middels personas, welke een specifiek doel in het systeem hebben. De scenario's komen misschien bekend voor, ze zijn geïnspireerd door gedrag in het huidige fiat systeem. De gedachte erachter is dat hoe een financieel systeem is geconfigureerd in zichzelf niet slecht is, maar de financiële hiërarchie, die centraal is ingericht en in feite als piramide is geschakeerd, waardoor macht ook gecentraliseerd is, wel. Ook is de waardering van mensen sociaal gezien in het fiat systeem gebaseerd op een economische waardebepaling van de persoon in geld. Je kunt je afvragen waarom een schoonmaker veel minder verdient dan bijvoorbeeld een chirurg. Een hoe het komt dat een schoonmaker toevalligerwijs lager in de sociale ladder staat dan diezelfde chirurg. Het beoogde doel van het Time Banking Framework is een een decentrale inrichting van het systeem.
 
-Fundamenteel onderdeel van het systeem is dat de waardering van een uur arbeid gelijk is voor iedereen in de community en dat arbeid niet, zoals in het fiat systeem, verschillend gewaardeerd wordt.
+Fundamenteel onderdeel van het systeem is dat de waardering van een uur arbeid gelijk is voor iedereen in de community en dat arbeid niet, zoals in het fiat systeem, verschillend gewaardeerd wordt. De uren van een chirurg zijn dus evenveel waard dan die van een schoonmaker. En dat is ook eerlijk. Iedereen wordt geboren met een bepaalde gaven. Niet iedereen is even sterk op het gebied van de cognitie, maar heeft ongetwijfeld andere prachtige gaven, die zeer waardevol zijn binnen een community.
 
 ```
 TODO
 
 [ ] Zijn er nadelen verbonden aan een gelijke waardering van iedereen in het systeem? Het neigt ergens naar communisme, wat uiteindelijk altijd ineenstort.
+
+Dit is geen communistisch systeem. Ook niet marxistisch. In beide systemen speelt een overheid een grote rol. Het zijn gecentraliseerde systemen. Een timebased economy werkt decentraal. Het werkt organisch zoals in de natuur de levensvormen ook elkaar helpt en ondersteund. Er zijn geen leiders, maar dragers of verzorgers. En iedereen in de cirkel is gelijk, en stelt zijn gaven vanuit vrijheid, vanuit het hart beschikbaar aan een ander.   
 ```
+
+# Vertrouwen als economische fundament
+Wat is geld? Geld is in essentie een afspraak gebasseerd op vertrouwen. En de bank speelt daarbij de rol van de vertrouwenspersoon. We kunnen daardoor indirect ruilen met elkaar door elkaar een stukje papier te geven. Op het moment dat we dat stukje papier inleveren bij de bank, dan verhoogt de bank een getal in hun computersysteem. De bank staat dus garant dat het papiertje een waarde heeft. Ook banken onderling vertrouwen elkaar. Op het moment dat iemand de opdracht geeft om bij zichzelf een getal in mindering te brengen en die bij een ander, bij een andere bank, op te laten hogen, dan moeten de banken elkaar onderling kunnen vertrouwen dat het getal wel degelijk wordt afgeboekt en de andere bank hetzelfde getal opboekt. De bank moet ook daartoe instaat zijn. En dit was precies hetgeen dat fout ging in het financiele systeem, ten tijde van de bankencrises. Een bank die dreigt falliet te gaan is niet in staat om garant te staan voor het bedrag waarmee het saldo van de rekening afgeboekt wordt. En we stonden toen ook op het randje van het ineenstorten van het financiele systeem.
+
+Voor elk financieel systeem geldt dat de mensen die er gebruik van maken het systeem moet kunnen vertrouwen. 
 
 # Fases
 
@@ -22,6 +29,31 @@ TODO
 8. Gelijkgestemden vinden die mee willen helpen aan de ontwikkeling van de standaard infrastructuur
 9. Standaard infrastructuur ontwikkelen
 10. Communities oprichten o.b.v. het framework
+
+# Een timebased economy systeem uitgewerkt
+## De cirkel 
+
+TODO
+
+## Rollen binnen een cirkel
+
+TODO
+
+## Het transactie systeem binnen een cirkel
+
+TODO
+
+## Limieten binnen de cirkel
+
+TODO
+
+## Het transactie systeem buiten de cirkel
+
+TODO
+
+## De cirkel instappen en verlaten
+
+TODO
 
 # Scenarios
 
