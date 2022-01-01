@@ -17,6 +17,15 @@ Wat is geld? Geld is in essentie een afspraak gebasseerd op vertrouwen. En de ba
 
 Voor elk financieel systeem geldt dat de mensen die er gebruik van maken het systeem moet kunnen vertrouwen. 
 
+# Het filosofische fundament
+We leven in een overgangsperiode, waarbij we als mensheid een nieuwe stap maken in het bewustzijn. Het oude bewustzijn is in de afgelopen 2000 jaar gevormd op basis van concepten die verbonden zijn aan hierarchie, macht, exploitatie en expansiedrang. Ofwel de negatieve zijde van het mannelijke archetype. We merken dat deze begrippen niet langer werkt en de gevolgen zijn overduidelijk zichtbaar geworden. We groeien naar een nieuw bewustzijn dat zich kenmerkt door vrijheid, gelijkheid en verbondenheid, ofwel het aquarius principe. De verbondenheid is niet alleen een gelijkwaardige verbinding met de mensen om ons heen, maar juist ook met alles dat leeft en alles dat is. Wanneer we het perspectief pakken van het universum, dan bestaat alles uit sterrenstof en daarom zijn we als verwanten onlosmakelijk verbonden met alles dat is. 
+
+De mens is geen heerser over zijn omgeving, maar maakt in een gelijkwaardige relatie deel uit van die omgeving. En wanneer we gaan beseffen dat balans de sleutel is tot overvloed, dan kunnen we die sleutel inzetten om onze wereld te helen. Balans is een kwestie van geven en nemen, maar ook van respect hebben voor grenzen. We kunnen niet eindeloos consumeren, exploiteren en groeien. Maar we kunnen wel een balans vinden met elkaar, met alles dat leeft en is, en met de Aarde, dat ons draagt en voed.
+
+Dit framework is gebasseerd op deze filosofie. 
+
+De cirkel is een krachtig symbool dat deze filosofie tot uitting brengt. Iedereen die zich verbindt met een cirkel heeft zijn eigen achtergrond, geschiedenis en gaven. Niemand staat in het midden. Dat maakt ons gelijk. De verbinding is er 1 vanuit vrijheid en vanuit het hart. Iedereen in de cirkel draagt bij aan het geheel. "Je zit niet in een restaurant, maar je staat in de keuken". 
+
 # Fases
 
 1. Opstellen van scenarios die alle facetten van de op tijd gebaseerde economie omvatten
@@ -31,13 +40,38 @@ Voor elk financieel systeem geldt dat de mensen die er gebruik van maken het sys
 10. Communities oprichten o.b.v. het framework
 
 # Een timebased economy systeem uitgewerkt
+
+## Eenheid
+1T$ = 1 uur arbeid. Waarde die toegekend wordt aan een dienst is dus het aantal uren dat besteed is om de dienst te realiseren. Bij een product ligt dit iets anders. Een product is gemaakt van grondstoffen, gereedschappen en de tijd dat iemand eraan besteed heeft. 
+
+- Grondstoffen is een geschenk van Moeder Aarde. Maar er is wel tijd nodig om het te verzamelen en te transformeren. 
+- Gereedschap wordt gemaakt van grondstoffen en tijd, maar moet wel terugverdient worden als deze geruild is.
+
+Het product is dus optelsom van de tijd om de grondstof te verzamelen en te transformeren, de tijd die besteed is aan het maken van gereedschappen en de tijd die besteed is aan het vervaardigen van het product.   
+
 ## De cirkel 
 
-TODO
+Een cirkel bestaat uit een groep gelijkgestemde mensen. Zij hebben gezamenlijk besloten om met het systeem te gaan werken. Iedereen zet zijn talenten in om diensten en producten aan te bieden. Practisch gezien is het wel handig om fysiek dicht bij elkaar te wonen, bijvoorbeeld binnen een straal van maximaal 5 kilometer. Want als je te ver uit elkaar woont is het lastig om tot een indirecte of directe ruil te komen.
+
+Het systeem kent 2 typen transacties:
+- directe ruil
+- indirecte ruil
+
+**directe ruil**
+2 mensen binnen de cirkel ruilen direct met elkaar. dit hoeft niet perse vastgelegd te worden. Het is wel handig is als iedereen van elkaar weet wat die aanbied en wat die vraagt. Wanneer er een match is, dan brengt het systeem de betrokkenen op de hoogte.
+
+**indirecte ruil**
+Dit is gebasseerd op het pay-foreward principe. Iemand neemt een dienst af. De persoon die de dienst levert krijgt 1T$ per uur. Degene die de dienst afneemt gaat met diezelfde hoeveelheid in de min. De persoon die de dienst heeft gelevert kan nu bij een derde persoon een dienst afnemen en betaald die de T$-en die hij verdient heeft. De persoon die de dienst heeft afgenomen en die in de min staat zal nu een dienst moeten leveren om weer op 0 uit te komen. 
 
 ## Rollen binnen een cirkel
 
-TODO
+**De cirkeldragers**
+Een cirkel van deelnemers kent geen leiders, maar dragers of verzorgers. Zij faciliteren de mogelijkheid dat de cirkel er is. Zij zorgen er ook voor dat er harmonie is binnen de groep en bemiddelen bij conflicten. Uitteraard kost dit tijd en het is dan ook niet meer dan logisch dat ze daarmee T$-en kunnen verdienen. 
+
+De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel t$-en per x periode automatisch wordt overgemaakt. Het cirkel account betaald de uren en komt daarmee in de min. 
+
+**De cirkel entiteit**
+
 
 ## Het transactie systeem binnen een cirkel
 
