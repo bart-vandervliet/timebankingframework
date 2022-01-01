@@ -145,6 +145,13 @@ PETER                  106T$
 ## Iets bestellen buiten het systeem (inter time bank transactie)
 ## Een huis kopen
 ## Een product kopen
+
+```
+TODO
+
+[ ] Inkopen bij groothandel in fiat en verkopen in T$, hoe regelen we dat belastingtechnisch?
+```
+
 ## Een dienst afnemen
 
 ```
