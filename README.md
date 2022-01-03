@@ -68,7 +68,13 @@ Dit is gebasseerd op het pay-foreward principe. Iemand neemt een dienst af. De p
 **De cirkeldragers**
 Een cirkel van deelnemers kent geen leiders, maar dragers of verzorgers. Zij faciliteren de mogelijkheid dat de cirkel er is. Zij zorgen er ook voor dat er harmonie is binnen de groep en bemiddelen bij conflicten. Uitteraard kost dit tijd en het is dan ook niet meer dan logisch dat ze daarmee T$-en kunnen verdienen. 
 
-De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel t$-en per x periode automatisch wordt overgemaakt. Het cirkel account betaald de uren en komt daarmee in de min. 
+De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel T$-en per x periode automatisch wordt overgemaakt. Het cirkel account betaalt de uren en komt daarmee in de min. 
+
+```
+TODO
+
+[ ] De som is volgens mij altijd 0, ook wanneer er een account is voor het gemeenschappelijk belang? Uitwerken!
+```
 
 **De cirkel entiteit**
 
@@ -371,7 +377,7 @@ TODO
 * Een manier om een abonnement aan te gaan en te beëindigen
 * Een manier om een lening te verstrekken en terug te betalen of door te halen
 * 100% veilige manier om transacties te vereffenen
-* Marktplaats / sociaal medium
+* Marktplaats / sociaal medium (een soort facebook waar je je cirkel op kunt starten en waar je diensten en producten kunt aanbieden, in contact kunt komen met andere cirkels, intercirkel transacties kunt doen, etc.)
 * Interface met fiat systeem (beurs, handelen op bijv EUR/T$ op een zwevende of vaste wisselkoers, bepaald door bijv. de gemiddelde EUR/per uur voor arbeid in Nederland)
 * Interface met andere op tijd gebaseerde communities (Specificatie van een standaard + implementatie van die standaard)
 * Dispuut systeem
