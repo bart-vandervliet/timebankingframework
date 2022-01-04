@@ -369,6 +369,13 @@ TODO
 # Benodigdheden
 
 * Tijdbank + Mijn tijdbank omgeving (web, apps, desktop)
+
+```
+TODO
+
+[ ] Architectuur zo opzetten dat het een open specificatie is, waar eenieder zijn eigen app of webapp voor kan zetten. Decentralisatie is de sleutel.
+```
+
 * Een manier om transacties automatisch te vereffenen (wanneer je bijv. als leerkracht 8 uur per dag werkt en eind van de dag je 8 uur betaald wilt krijgen)
 * Een manier om een transactie te maken
   * Online, bijvoorbeeld bij een aankoop in een webshop
@@ -388,6 +395,14 @@ TODO
   * Het recht om ratings ter discussie te stellen (een slechte rating hoeft niet altijd de schuld te zijn van de beoordeelde)
   * Het recht om ratings te verwijderen
   * Inspireren op bijv. het Marktplaats, AliExpress of Fiverr ervaringen systeem. Maar dan + tekst, afbeeldingen en reacties
+* Berichtenapp zoals Whatsapp of Telegram, maar dan met open specificatie. Het mogelijk maken dat eenieder een server kan aansluiten om decentralisatie te bevorderen.
+
+```
+TODO
+
+[ ] Goed nadenken over encryptie en hoe veiligheidsdiensten in dit verhaal passen.
+```
+
 
 ```
 TODO
