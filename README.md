@@ -462,6 +462,7 @@ TODO
   * Niet misleiden
   * ...
   * Kunnen regels eigenlijk ook positief geformuleerd zijn?
+* Niet alles hoeft zelf verzonnen/ontwikkeld te worden: goed kijken naar welke initiatieven er zijn en daar gebruik van maken!
 ```
 TODO
 
