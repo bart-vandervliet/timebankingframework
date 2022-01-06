@@ -59,8 +59,7 @@ Thinking about this, using cryptocurrencies a private transaction could be the e
 3. Participant A then receives a 30T$ private key from participant B
 4. Participant B pays participant C 20T$, transferring the private key
 5. Participant B does not have any private keys left
-6. Participant A gets a new private key for the remainder of the money
-7. Participant C converts the private keys to 40T$
+6. Participant C converts the private keys to 40T$
 
 ```
 TODO
