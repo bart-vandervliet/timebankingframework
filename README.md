@@ -433,7 +433,7 @@ TODO
 * Internet: Een eigen, geïsoleerd internet?
 * Cloud Platform: Mensen kunnen computerkracht, bandbreedte, geheugen en opslag delen voor T$. Hoe ga je om met beschikbaarheid? Uitval internet, lage bandbreedte, hoge latency, uitzetten laptop/updates, lage performance laptop? (https://holo.host)
 * Besturingssysteem telefoon / tablet / desktop (Linux)
-* Social media (Gedecentraliseerd, data niet in handen van één partij)
+* Social media (Gedecentraliseerd, data niet in handen van één partij, https://diaspora.social)
 * Whatsapp alternatief
 * Politie
 * Huisarts
