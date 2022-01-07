@@ -68,7 +68,13 @@ Dit is gebasseerd op het pay-foreward principe. Iemand neemt een dienst af. De p
 **De cirkeldragers**
 Een cirkel van deelnemers kent geen leiders, maar dragers of verzorgers. Zij faciliteren de mogelijkheid dat de cirkel er is. Zij zorgen er ook voor dat er harmonie is binnen de groep en bemiddelen bij conflicten. Uitteraard kost dit tijd en het is dan ook niet meer dan logisch dat ze daarmee T$-en kunnen verdienen. 
 
-De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel t$-en per x periode automatisch wordt overgemaakt. Het cirkel account betaald de uren en komt daarmee in de min. 
+De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel T$-en per x periode automatisch wordt overgemaakt. Het cirkel account betaalt de uren en komt daarmee in de min. 
+
+```
+TODO
+
+[ ] De som is volgens mij altijd 0, ook wanneer er een account is voor het gemeenschappelijk belang? Uitwerken!
+```
 
 **De cirkel entiteit**
 
@@ -363,6 +369,13 @@ TODO
 # Benodigdheden
 
 * Tijdbank + Mijn tijdbank omgeving (web, apps, desktop)
+
+```
+TODO
+
+[ ] Architectuur zo opzetten dat het een open specificatie is, waar eenieder zijn eigen app of webapp voor kan zetten. Decentralisatie is de sleutel.
+```
+
 * Een manier om transacties automatisch te vereffenen (wanneer je bijv. als leerkracht 8 uur per dag werkt en eind van de dag je 8 uur betaald wilt krijgen)
 * Een manier om een transactie te maken
   * Online, bijvoorbeeld bij een aankoop in een webshop
@@ -371,7 +384,7 @@ TODO
 * Een manier om een abonnement aan te gaan en te beëindigen
 * Een manier om een lening te verstrekken en terug te betalen of door te halen
 * 100% veilige manier om transacties te vereffenen
-* Marktplaats / sociaal medium
+* Marktplaats / sociaal medium (een soort facebook waar je je cirkel op kunt starten en waar je diensten en producten kunt aanbieden, in contact kunt komen met andere cirkels, intercirkel transacties kunt doen, etc.)
 * Interface met fiat systeem (beurs, handelen op bijv EUR/T$ op een zwevende of vaste wisselkoers, bepaald door bijv. de gemiddelde EUR/per uur voor arbeid in Nederland)
 * Interface met andere op tijd gebaseerde communities (Specificatie van een standaard + implementatie van die standaard)
 * Dispuut systeem
@@ -382,6 +395,14 @@ TODO
   * Het recht om ratings ter discussie te stellen (een slechte rating hoeft niet altijd de schuld te zijn van de beoordeelde)
   * Het recht om ratings te verwijderen
   * Inspireren op bijv. het Marktplaats, AliExpress of Fiverr ervaringen systeem. Maar dan + tekst, afbeeldingen en reacties
+* Berichtenapp zoals Whatsapp of Telegram, maar dan met open specificatie. Het mogelijk maken dat eenieder een server kan aansluiten om decentralisatie te bevorderen.
+
+```
+TODO
+
+[ ] Goed nadenken over encryptie en hoe veiligheidsdiensten in dit verhaal passen.
+```
+
 
 ```
 TODO
@@ -410,6 +431,8 @@ TODO
 ```
 * Time Bank Association: één plek waar alle op tijd gebaseerde communities ter wereld zich kunnen verenigen
 * Internet: Een eigen, geïsoleerd internet?
+* Cloud Platform: Mensen kunnen computerkracht, bandbreedte, geheugen en opslag delen voor T$. Hoe ga je om met beschikbaarheid? Uitval internet, lage bandbreedte, hoge latency, uitzetten laptop/updates, lage performance laptop?
+* Besturingssysteem telefoon / tablet
 * Politie
 * Huisarts
 * Tandarts
@@ -439,6 +462,7 @@ TODO
   * Niet misleiden
   * ...
   * Kunnen regels eigenlijk ook positief geformuleerd zijn?
+* Niet alles hoeft zelf verzonnen/ontwikkeld te worden: goed kijken naar welke initiatieven er zijn en daar gebruik van maken!
 ```
 TODO
 
