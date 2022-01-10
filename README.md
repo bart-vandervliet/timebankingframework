@@ -37,7 +37,7 @@ De cirkel is een krachtig symbool dat deze filosofie tot uitting brengt. Iederee
 1T$ = 1 uur arbeid. Waarde die toegekend wordt aan een dienst is dus het aantal uren dat besteed is om de dienst te realiseren. Bij een product ligt dit iets anders. Een product is gemaakt van grondstoffen, gereedschappen en de tijd dat iemand eraan besteed heeft. 
 
 - Grondstoffen is een geschenk van Moeder Aarde. Maar er is wel tijd nodig om het te verzamelen en te transformeren. 
-- Gereedschap wordt gemaakt van grondstoffen en tijd, maar moet wel terugverdient worden wanneer deze geruild is.
+- Gereedschap wordt gemaakt van grondstoffen en tijd, maar moet wel terugverdiend worden wanneer deze geruild is.
 
 De werkelijke waarde van een product is dus optelsom van de tijd om de grondstof te verzamelen en te transformeren, de tijd die besteed is aan het maken van gereedschappen en de tijd die besteed is aan het vervaardigen van het product.  
 
@@ -53,7 +53,7 @@ Het systeem kent 2 typen transacties:
 2 mensen binnen de cirkel ruilen direct met elkaar. dit hoeft niet perse vastgelegd te worden. Het is wel handig is als iedereen van elkaar weet wat die aanbied en wat die vraagt. Wanneer er een match is, dan brengt het systeem de betrokkenen op de hoogte.
 
 **indirecte ruil**
-Dit is gebasseerd op het pay-foreward principe. Iemand neemt een dienst af. De persoon die de dienst levert krijgt 1T$ per uur. Degene die de dienst afneemt gaat met diezelfde hoeveelheid in de min. De persoon die de dienst heeft gelevert kan nu bij een derde persoon een dienst afnemen en betaald die de T$ eenheden die hij verdient heeft. De persoon die de dienst heeft afgenomen en die in de min staat zal nu een dienst moeten leveren om weer op 0 uit te komen. 
+Dit is gebasseerd op het pay-forward principe. Iemand neemt een dienst af. De persoon die de dienst levert krijgt 1T$ per uur. Degene die de dienst afneemt gaat met diezelfde hoeveelheid in de min. De persoon die de dienst heeft gelevert kan nu bij een derde persoon een dienst afnemen en betaald die de T$ eenheden die hij verdient heeft. De persoon die de dienst heeft afgenomen en die in de min staat zal nu een dienst moeten leveren om weer op 0 uit te komen. 
 
 ## Rollen binnen een cirkel
 
