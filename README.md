@@ -63,7 +63,7 @@ De deelnemers zijn verbonden aan een cirkel. De activiteiten van de deelnemer vi
 **De cirkeldragers**
 Een cirkel van deelnemers kent geen leiders, maar dragers of verzorgers. Zij faciliteren de mogelijkheid dat de cirkel er is. Zij zorgen er ook voor dat er harmonie is binnen de groep en bemiddelen bij conflicten. Uiteraard kost dit tijd en het is dan ook niet meer dan logisch dat ze daarmee T$ eenheden kunnen verdienen. 
 
-De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel T$ eenheden per x periode automatisch wordt overgemaakt aan de cirkeldrager. Het cirkel account betaald de uren en komt daarmee in de min. Doordat de cirkeldrager T$ eenheden ontvangt kan die daarmee de curculatie in beweging zetten, door diensten af te nemen en producten aan te schaffen van de andere deelnemers. 
+De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel T$ eenheden per x periode automatisch wordt overgemaakt aan de cirkeldrager. Het cirkel account betaalt de uren en komt daarmee in de min. Doordat de cirkeldrager T$ eenheden ontvangt kan die daarmee de curculatie in beweging zetten, door diensten af te nemen en producten aan te schaffen van de andere deelnemers. 
 
 ```
 TODO
@@ -137,7 +137,7 @@ De deelnemer heeft het recht om 6T$ uit te geven
 
 ## Passief deelnemersschap
 
-Wanneer een deelnemer in de afgelopen maand geen transacties heeft gedaan, dan betaald de deelnemer automatisch 1T$ aan de cirkel entiteit. Na verloop van tijd komt de deelnemer daarmee op een saldo van 0T$, de beginstand, En daarmee kan die de cirkel verlaten. 
+Wanneer een deelnemer in de afgelopen maand geen transacties heeft gedaan, dan betaalt de deelnemer automatisch 1T$ aan de cirkel entiteit. Na verloop van tijd komt de deelnemer daarmee op een saldo van 0T$, de beginstand, En daarmee kan die de cirkel verlaten. 
 
 ## De cirkel instappen en verlaten
 
