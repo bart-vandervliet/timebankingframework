@@ -53,7 +53,7 @@ Het systeem kent 2 typen transacties:
 2 mensen binnen de cirkel ruilen direct met elkaar. dit hoeft niet perse vastgelegd te worden. Het is wel handig is als iedereen van elkaar weet wat die aanbied en wat die vraagt. Wanneer er een match is, dan brengt het systeem de betrokkenen op de hoogte.
 
 **indirecte ruil**
-Dit is gebasseerd op het pay-forward principe. Iemand neemt een dienst af. De persoon die de dienst levert krijgt 1T$ per uur. Degene die de dienst afneemt gaat met diezelfde hoeveelheid in de min. De persoon die de dienst heeft geleverd kan nu bij een derde persoon een dienst afnemen en betaald die de T$ eenheden die hij verdiend heeft. De persoon die de dienst heeft afgenomen en die in de min staat zal nu een dienst moeten leveren om weer op 0 uit te komen. 
+Dit is gebasseerd op het pay-forward principe. Iemand neemt een dienst af. De persoon die de dienst levert krijgt 1T$ per uur. Degene die de dienst afneemt gaat met diezelfde hoeveelheid in de min. De persoon die de dienst heeft geleverd kan nu bij een derde persoon een dienst afnemen en betaalt de T$ eenheden die hij verdiend heeft. De persoon die de dienst heeft afgenomen en die in de min staat zal nu een dienst moeten leveren om weer op 0 uit te komen. 
 
 ## Rollen binnen een cirkel
 
