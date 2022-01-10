@@ -63,7 +63,7 @@ De deelnemers zijn verbonden aan een cirkel. De activiteiten van de deelnemer vi
 **De cirkeldragers**
 Een cirkel van deelnemers kent geen leiders, maar dragers of verzorgers. Zij faciliteren de mogelijkheid dat de cirkel er is. Zij zorgen er ook voor dat er harmonie is binnen de groep en bemiddelen bij conflicten. Uitteraard kost dit tijd en het is dan ook niet meer dan logisch dat ze daarmee T$ eenheden kunnen verdienen. 
 
-De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel t$ eenheden per x periode automatisch wordt overgemaakt aan de cirkeldrager. Het cirkel account betaald de uren en komt daarmee in de min. Doordat de cirkeldrager T$ eenheden ontvangt kan die daarmee de curculatie in beweging zetten, door diensten af te nemen en producten aan te schaffen van de andere deelnemers. 
+De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel T$ eenheden per x periode automatisch wordt overgemaakt aan de cirkeldrager. Het cirkel account betaald de uren en komt daarmee in de min. Doordat de cirkeldrager T$ eenheden ontvangt kan die daarmee de curculatie in beweging zetten, door diensten af te nemen en producten aan te schaffen van de andere deelnemers. 
 
 ```
 TODO
@@ -73,9 +73,9 @@ TODO
 
 **De cirkel entiteit**
 
-Een cirkel heeft een uniek kenmerk, bijvoorbeeld een GUID. De t$ eenheden zijn verbonden aan dit kenmerk. Zodat de waarde eenheden nooit buiten de cirkel gebruikt kunnen worden.
+Een cirkel heeft een uniek kenmerk, bijvoorbeeld een GUID. De T$ eenheden zijn verbonden aan dit kenmerk. Zodat de waarde eenheden nooit buiten de cirkel gebruikt kunnen worden.
 
-Doordat de cirkel t$ eenheden per x periode aan de cirkeldrager overmaakt, komt het saldo van de cirkel entiteit in de min te staan. Dit negatieve saldo is de indicatie van de grootte van de economie binnen de cirkel. 
+Doordat de cirkel T$ eenheden per x periode aan de cirkeldrager overmaakt, komt het saldo van de cirkel entiteit in de min te staan. Dit negatieve saldo is de indicatie van de grootte van de economie binnen de cirkel. 
 
 **De systeem entiteit**
 
@@ -147,7 +147,7 @@ Wanneer er sprake is van een negatief saldo, dan moet de deelnemer eerst zijn sc
 
 ## Het transactie systeem buiten de cirkel
 
-T$ eenheden binnen de cirkel zijn verbonden aan de cirkel. De cirkel entiteit maakt deel uit van een grotere cirkel van cirkels. Een cirkel entiteit heeft cirkel t$ eenheden = CT$. Ten aanzien van de CT$ eenheden gelden dezelfde regels als T$ eenheden:
+T$ eenheden binnen de cirkel zijn verbonden aan de cirkel. De cirkel entiteit maakt deel uit van een grotere cirkel van cirkels. Een cirkel entiteit heeft cirkel T$ eenheden = CT$. Ten aanzien van de CT$ eenheden gelden dezelfde regels als T$ eenheden:
 - Een cirkel mag in de min staan met een limiet
 - Een cirkel kan handelen met andere cirkels 
 Met uitzondering van:
