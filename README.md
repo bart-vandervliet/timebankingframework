@@ -83,7 +83,7 @@ De systeem entiteit is een lege cirkel die nodig is om de handel tussen cirkels 
 
 ## Het transactie systeem binnen een cirkel
 
-Alle deelnemers beginnen met een saldo van 0 T$ eenheden. Wanneer een deelnemers een dienst afneemt van een andere deelnemers dan wordt het aantal uren in rekening gebracht. 1 T$ = 1 uur. 
+Alle deelnemers beginnen met een saldo van 0 T$ eenheden. Wanneer een deelnemers een dienst afneemt van een andere deelnemer dan wordt het aantal uren in rekening gebracht. 1 T$ = 1 uur. 
 
 Het mogelijk om ook minder dan 1 uur te betalen. Een dienst van 15 minuten kost 0,25 T$. 
 
