@@ -4,27 +4,19 @@ Er zijn wereldwijd veel initiatieven tot time banking. Deze repo zet aan tot het
 
 Fundamenteel onderdeel van het systeem is dat de waardering van een uur arbeid gelijk is voor iedereen in de community en dat arbeid niet, zoals in het fiat systeem, verschillend gewaardeerd wordt. De uren van een chirurg zijn dus evenveel waard dan die van een schoonmaker. En dat is ook eerlijk. Iedereen wordt geboren met een bepaalde gaven. Niet iedereen is even sterk op het gebied van de cognitie, maar heeft ongetwijfeld andere prachtige gaven, die zeer waardevol zijn binnen een community.
 
-```
-TODO
-
-[ ] Zijn er nadelen verbonden aan een gelijke waardering van iedereen in het systeem? Het neigt ergens naar communisme, wat uiteindelijk altijd ineenstort.
-
-Dit is geen communistisch systeem. Ook niet marxistisch. In beide systemen speelt een overheid een grote rol. Het zijn gecentraliseerde systemen. Een timebased economy werkt decentraal. Het werkt organisch zoals in de natuur de levensvormen ook elkaar helpt en ondersteund. Er zijn geen leiders, maar dragers of verzorgers. En iedereen in de cirkel is gelijk, en stelt zijn gaven vanuit vrijheid, vanuit het hart beschikbaar aan een ander.   
-```
-
 # Vertrouwen als economische fundament
 Wat is geld? Geld is in essentie een afspraak gebasseerd op vertrouwen. En de bank speelt daarbij de rol van de vertrouwenspersoon. We kunnen daardoor indirect ruilen met elkaar door elkaar een stukje papier te geven. Op het moment dat we dat stukje papier inleveren bij de bank, dan verhoogt de bank een getal in hun computersysteem. De bank staat dus garant dat het papiertje een waarde heeft. Ook banken onderling vertrouwen elkaar. Op het moment dat iemand de opdracht geeft om bij zichzelf een getal in mindering te brengen en die bij een ander, bij een andere bank, op te laten hogen, dan moeten de banken elkaar onderling kunnen vertrouwen dat het getal wel degelijk wordt afgeboekt en de andere bank hetzelfde getal opboekt. De bank moet ook daartoe instaat zijn. En dit was precies hetgeen dat fout ging in het financiele systeem, ten tijde van de bankencrises. Een bank die dreigt falliet te gaan is niet in staat om garant te staan voor het bedrag waarmee het saldo van de rekening afgeboekt wordt. En we stonden toen ook op het randje van het ineenstorten van het financiele systeem.
 
 Voor elk financieel systeem geldt dat de mensen die er gebruik van maken het systeem moet kunnen vertrouwen. 
 
 # Het filosofische fundament
-We leven in een overgangsperiode, waarbij we als mensheid een nieuwe stap maken in het bewustzijn. Het oude bewustzijn is in de afgelopen 2000 jaar gevormd op basis van concepten die verbonden zijn aan hierarchie, macht, exploitatie en expansiedrang. Ofwel de negatieve zijde van het mannelijke archetype. We merken dat deze begrippen niet langer werkt en de gevolgen zijn overduidelijk zichtbaar geworden. We groeien naar een nieuw bewustzijn dat zich kenmerkt door vrijheid, gelijkheid en verbondenheid, ofwel het aquarius principe. De verbondenheid is niet alleen een gelijkwaardige verbinding met de mensen om ons heen, maar juist ook met alles dat leeft en alles dat is. Wanneer we het perspectief pakken van het universum, dan bestaat alles uit sterrenstof en daarom zijn we als verwanten onlosmakelijk verbonden met alles dat is. 
+We leven in een overgangsperiode, waarbij we als mensheid een nieuwe stap maken in het bewustzijn. Het oude bewustzijn is in de afgelopen 2000 jaar gevormd op basis van concepten die verbonden zijn aan hierarchie, macht, exploitatie en expansiedrang. Maar ook ontdekken, uitvinden, beoefenen van wetenschap. Het heeft ons gebracht waar we nu staan, met een wereldmaatschappij waarin het rijke westen kan leven in luxe dankzij de vele technische prestaties, helaas ten koste van. We merken dat deze begrippen niet langer werken. De gevolgen zijn overduidelijk zichtbaar geworden. We groeien naar een nieuw bewustzijn dat zich kenmerkt door vrijheid, gelijkheid en verbondenheid, ofwel het aquarius principe. Die verbondenheid is niet alleen een gelijkwaardige verbinding met de mensen om ons heen, maar juist ook met alles dat leeft en alles dat is. Wanneer we het perspectief pakken van het universum, dan bestaat alles uit sterrenstof en daarom zijn we als verwanten onlosmakelijk verbonden. 
 
-De mens is geen heerser over zijn omgeving, maar maakt in een gelijkwaardige relatie deel uit van die omgeving. En wanneer we gaan beseffen dat balans de sleutel is tot overvloed, dan kunnen we die sleutel inzetten om onze wereld te helen. Balans is een kwestie van geven en nemen, maar ook van respect hebben voor grenzen. We kunnen niet eindeloos consumeren, exploiteren en groeien. Maar we kunnen wel een balans vinden met elkaar, met alles dat leeft en is, en met de Aarde, dat ons draagt en voed.
+De mens is geen heerser over zijn omgeving, maar maakt in een gelijkwaardige relatie deel uit van die omgeving. En wanneer we gaan beseffen dat balans de sleutel is tot overvloed, dan kunnen we die sleutel inzetten om onze wereld te helen. Balans is een kwestie van geven en nemen, maar ook van respect hebben voor grenzen. We kunnen niet eindeloos consumeren, exploiteren en groeien. Maar we kunnen wel een balans vinden met elkaar, met alles dat leeft en is, en met de Aarde, dat ons draagt en voedt.
 
-Dit framework is gebasseerd op deze filosofie. 
+Dit economische framework is gebasseerd op deze filosofie. 
 
-De cirkel is een krachtig symbool dat deze filosofie tot uitting brengt. Iedereen die zich verbindt met een cirkel heeft zijn eigen achtergrond, geschiedenis en gaven. Niemand staat in het midden. Dat maakt ons gelijk. De verbinding is er 1 vanuit vrijheid en vanuit het hart. Iedereen in de cirkel draagt bij aan het geheel. "Je zit niet in een restaurant, maar je staat in de keuken". 
+De cirkel is een krachtig symbool dat deze filosofie tot uitting brengt. Iedereen die zich verbindt met een cirkel heeft zijn eigen achtergrond, geschiedenis en gaven. Niemand staat in het midden. Dat maakt ons gelijk. De verbinding is er 1 vanuit vrijheid en vanuit het hart. Iedereen in de cirkel draagt bij aan het geheel. "Je zit niet in een restaurant, maar je staat in de keuken". De deelnemers van een cirkel wonen in dezelfde regio en de waarde eenheden zijn verbonden aan die cirkel. Deze eenheden kunnen cirkel niet verlaten en daardoor is het resultaat een lokale economie.  
 
 # Fases
 
@@ -45,9 +37,9 @@ De cirkel is een krachtig symbool dat deze filosofie tot uitting brengt. Iederee
 1T$ = 1 uur arbeid. Waarde die toegekend wordt aan een dienst is dus het aantal uren dat besteed is om de dienst te realiseren. Bij een product ligt dit iets anders. Een product is gemaakt van grondstoffen, gereedschappen en de tijd dat iemand eraan besteed heeft. 
 
 - Grondstoffen is een geschenk van Moeder Aarde. Maar er is wel tijd nodig om het te verzamelen en te transformeren. 
-- Gereedschap wordt gemaakt van grondstoffen en tijd, maar moet wel terugverdient worden als deze geruild is.
+- Gereedschap wordt gemaakt van grondstoffen en tijd, maar moet wel terugverdiend worden wanneer deze geruild is.
 
-Het product is dus optelsom van de tijd om de grondstof te verzamelen en te transformeren, de tijd die besteed is aan het maken van gereedschappen en de tijd die besteed is aan het vervaardigen van het product.   
+De werkelijke waarde van een product is dus optelsom van de tijd om de grondstof te verzamelen en te transformeren, de tijd die besteed is aan het maken van gereedschappen en de tijd die besteed is aan het vervaardigen van het product.  
 
 ## De cirkel 
 
@@ -61,14 +53,17 @@ Het systeem kent 2 typen transacties:
 2 mensen binnen de cirkel ruilen direct met elkaar. dit hoeft niet perse vastgelegd te worden. Het is wel handig is als iedereen van elkaar weet wat die aanbied en wat die vraagt. Wanneer er een match is, dan brengt het systeem de betrokkenen op de hoogte.
 
 **indirecte ruil**
-Dit is gebasseerd op het pay-foreward principe. Iemand neemt een dienst af. De persoon die de dienst levert krijgt 1T$ per uur. Degene die de dienst afneemt gaat met diezelfde hoeveelheid in de min. De persoon die de dienst heeft gelevert kan nu bij een derde persoon een dienst afnemen en betaald die de T$-en die hij verdient heeft. De persoon die de dienst heeft afgenomen en die in de min staat zal nu een dienst moeten leveren om weer op 0 uit te komen. 
+Dit is gebasseerd op het pay-forward principe. Iemand neemt een dienst af. De persoon die de dienst levert krijgt 1T$ per uur. Degene die de dienst afneemt gaat met diezelfde hoeveelheid in de min. De persoon die de dienst heeft geleverd kan nu bij een derde persoon een dienst afnemen en betaalt de T$ eenheden die hij verdiend heeft. De persoon die de dienst heeft afgenomen en die in de min staat zal nu een dienst moeten leveren om weer op 0 uit te komen. 
 
 ## Rollen binnen een cirkel
 
-**De cirkeldragers**
-Een cirkel van deelnemers kent geen leiders, maar dragers of verzorgers. Zij faciliteren de mogelijkheid dat de cirkel er is. Zij zorgen er ook voor dat er harmonie is binnen de groep en bemiddelen bij conflicten. Uitteraard kost dit tijd en het is dan ook niet meer dan logisch dat ze daarmee T$-en kunnen verdienen. 
+**Deelnemers**
+De deelnemers zijn verbonden aan een cirkel. De activiteiten van de deelnemer vinden altijd plaats binnen een cirkel.
 
-De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel T$-en per x periode automatisch wordt overgemaakt. Het cirkel account betaalt de uren en komt daarmee in de min. 
+**De cirkeldragers**
+Een cirkel van deelnemers kent geen leiders, maar dragers of verzorgers. Zij faciliteren de mogelijkheid dat de cirkel er is. Zij zorgen er ook voor dat er harmonie is binnen de groep en bemiddelen bij conflicten. Uiteraard kost dit tijd en het is dan ook niet meer dan logisch dat ze daarmee T$ eenheden kunnen verdienen. 
+
+De cirkel zelf is ook een entiteit in het systeem met een eigen saldo. Je kan als groep besluiten hoeveel T$ eenheden per x periode automatisch wordt overgemaakt aan de cirkeldrager. Het cirkel account betaalt de uren en komt daarmee in de min. Doordat de cirkeldrager T$ eenheden ontvangt kan die daarmee de circulatie in beweging zetten, door diensten af te nemen en producten aan te schaffen van de andere deelnemers. 
 
 ```
 TODO
@@ -78,22 +73,116 @@ TODO
 
 **De cirkel entiteit**
 
+Een cirkel heeft een uniek kenmerk, bijvoorbeeld een GUID. De T$ eenheden zijn verbonden aan dit kenmerk. Zodat de waarde eenheden nooit buiten de cirkel gebruikt kunnen worden.
+
+Doordat de cirkel T$ eenheden per x periode aan de cirkeldrager overmaakt, komt het saldo van de cirkel entiteit in de min te staan. Dit negatieve saldo is de indicatie van de grootte van de economie binnen de cirkel. 
+
+**De systeem entiteit**
+
+De systeem entiteit is een lege cirkel die nodig is om de handel tussen cirkels mogelijk te maken.
 
 ## Het transactie systeem binnen een cirkel
 
-TODO
+Alle deelnemers beginnen met een saldo van 0 T$ eenheden. Wanneer een deelnemers een dienst afneemt van een andere deelnemer dan wordt het aantal uren in rekening gebracht. 1 T$ = 1 uur. 
+
+Het mogelijk om ook minder dan 1 uur te betalen. Een dienst van 15 minuten kost 0,25 T$. 
+
+```
+TRANSACTIES
+
+JOHN AAN ANITA     1T$
+
+SALDI
+
+JOHN              -1T$
+ANITA              1T$
+```
+
+De som van alle saldi binnen de cirkel is altijd 0. 
 
 ## Limieten binnen de cirkel
 
-TODO
+In het systeem is het niet mogelijk om te ver in de min te komen. Er is een limiet. Deze is afhankelijk van je gemiddelde saldo dat de deelnemer in de afgelopen maand in de plus heeft gestaan. Een deelnemer heeft altijd het recht om 4 uur in de min te mogen staan, dit staat gelijk aan een halve werkdag.
 
-## Het transactie systeem buiten de cirkel
+```
+SCENARIO 1:
 
-TODO
+SALDO VERLOOP
+
+ 1-1-2022           1T$
+ 3-1-2022           3T$
+15-1-2022           6T$
+24-1-2022           10T$
+
+NEGATIEF SALDO RECHT 
+20T$ / 4 = 5T$
+```
+
+De deelnemer heeft het recht om 15T$ uit te geven
+
+```
+SCENARIO 2:
+
+SALDO VERLOOP
+
+  4-1-2022          1T$
+ 24-1-2022          2T$
+
+NEGATIEF SALDO RECHT 
+3T$ / 2 = 1.5T$ afgerond 2T$
+2T$ is kleiner dan 4T$, resultaat 4T$
+```
+
+De deelnemer heeft het recht om 6T$ uit te geven
+
+## Passief deelnemersschap
+
+Wanneer een deelnemer in de afgelopen maand geen transacties heeft gedaan, dan betaalt de deelnemer automatisch 1T$ aan de cirkel entiteit. Na verloop van tijd komt de deelnemer daarmee op een saldo van 0T$, de beginstand, En daarmee kan die de cirkel verlaten. 
 
 ## De cirkel instappen en verlaten
 
-TODO
+Een deelnemer mag alleen de cirkel verlaten wanneer die een saldo heeft van 0T$. Wanneer de deelnemer de cirkel wilt verlaten met een positief saldo, dan kan de deelnemer ervoor kiezen het saldo over te maken naar de cirkel entiteit.
+
+Wanneer er sprake is van een negatief saldo, dan moet de deelnemer eerst zijn schuld aflossen. Wanneer de deelnemer betrokken is bij een conflict en de persoon heeft een negatief saldo, dan kan de groep middels een [ding](https://nl.wikipedia.org/wiki/Ding) besluiten om de persoon te royeren. De cirkel entiteit lost de schuld af en de persoon kan de cirkel verlaten.
+
+## Het transactie systeem buiten de cirkel
+
+T$ eenheden binnen de cirkel zijn verbonden aan de cirkel. De cirkel entiteit maakt deel uit van een grotere cirkel van cirkels. Een cirkel entiteit heeft cirkel T$ eenheden = CT$. Ten aanzien van de CT$ eenheden gelden dezelfde regels als T$ eenheden:
+- Een cirkel mag in de min staan met een limiet
+- Een cirkel kan handelen met andere cirkels 
+Met uitzondering van:
+- De limiet van de cirkel is even groot als het negatieve saldo in T$ eenheden. Dus hoe groter de economie binnen de cirkel hoe meer handelsmogelijkheden er ontstaan met andere cirkels.
+- Bij passiviteit worden er geen CT$ eenheden afgeschreven.
+
+**Handelsoverschotten en handelstekorten**
+Wanneer cirkels handelen met elkaar dan moet er een balans blijven bestaan tussen de cirkels. Wanneer deze balans niet wordt afgedwongen kan er een scenario ontstaan dat alle CT$ eenheden ophopen bij 1 cirkel. Het systeem houdt een tabel bij hoeveel er verhandeld is tussen cirkels. Wanneer cirkel A en cirkel B met elkaar handelen en het handelsoverschot of handelstekorten te groot wordt, mag cirkel A en cirkel B niet meer met elkaar handelen, totdat de balans weer hersteld is.
+
+**Een deelnemer wilt een product kopen van een andere cirkel**
+De deelnemer zoekt contact met een deelnemer van een andere cirkel en komt tot een overeenkomst. De deelnemer maakt het bedrag aan T$ eenheden over aan de andere deelnemer van de andere cirkel. De transactie wordt nu uitgevoerd via de cirkel entiteiten. 
+
+```
+CIRKEL A, DEELNEMER A1 AAN CIRKEL B, DEELNEMER B1       1T$
+
+DEELNEMER A1       -1T$
+CIRKEL A            1T$
+
+CIRKEL A           -1CT$
+CIRKEL B            1CT$
+
+CIRKEL B           -1T$
+DEELNEMER B1        1T$
+```
+
+Wanneer cirkellimieten bereikt zijn of wanneer er een te groot handelsoverschot of handelstekort is mag er niet gehandeld worden tussen de betreffende cirkels.
+
+**Lege cirkels**
+Het kan zijn dat in de loop van de tijd alle deelnemers van een cirkel gestopt is. Het saldo = 0, de limiet in CT$ = 0. Er zijn nu 2 scenario's mogelijk:
+- De cirkel heeft een positief saldo CT$  
+- De cirkel heeft een negatief saldo CT$
+
+Wanneer een cirkel 1 maand leeg blijft, dan wordt de cirkel automatisch opgeheven. Het positieve saldo CT$ wordt overgemaakt naar de systeem entiteit. Bij een negatief saldo lost de systeem entiteit de schuld af.
+
+Bij een leeg systeem zijn er geen deelnemers, geen cirkels. Er is alleen 1 systeem entiteit met een saldo van 0 CT$.
 
 # Scenarios
 
