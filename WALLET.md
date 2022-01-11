@@ -69,6 +69,13 @@ TODO
 [ ] Think about how to protect against participant A claiming the private key after transferring it to participant B. 
 [ ] Think about how to limit exchanging the private key to T$, which contributes the privacy of transactions. The more hops a private key makes, the more obscure the spending chain (tree, actually).
 [ ] Verify if all properties of cash transactions are present in the crypto private transactions.
+
+REMARKS
+
+Ik heb mijn bedenkingen over het gebruik van crypto:
+- crypto is verbonden aan de echte economie. Op beurzen kan je speculeren met crypto. Terwijl een uur een uur is. Dit is waardevast.
+- crypto is decentraal en je kan het opslaan op je eigen opslagmedium en ook kwijtraken. Op het moment dat T$ eenheden kwijtraken dan is het systeem nooit meer op 0 te brengen. 
+- Wat als iemand zijn T$ eenheden verkoopt aan iemand buiten de cirkel, of dat eenheden worden gestolen door hackers?
 ```
 
 ## Decentralization
